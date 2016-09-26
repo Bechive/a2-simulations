@@ -1,0 +1,3 @@
+sch2sym -intstyle ise -family xc9500xl -refsym SSDbc E:/IDS/Neo/SSDbc.sch E:/IDS/Neo/SSDbc.sym 
+sch2sym -intstyle ise -family xc9500xl -refsym SSDbc E:/IDS/Neo/SSDbc.sch E:/IDS/Neo/SSDbc.sym 
+sch2sym -intstyle ise -family xc9500xl -refsym SSDbc E:/IDS/Neo/SSDbc.sch E:/IDS/Neo/SSDbc.sym 

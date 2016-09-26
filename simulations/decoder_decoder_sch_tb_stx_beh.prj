@@ -1,0 +1,7 @@
+vhdl isim_temp "SSDg.vhf"
+vhdl isim_temp "SSDbc.vhf"
+vhdl isim_temp "SSDadef.vhf"
+vhdl isim_temp "SSD.vhf"
+vhdl isim_temp "decoder.vhf"
+vhdl isim_temp "decoder_TB.vhd"
+vhdl isim_temp "counter.vhf"

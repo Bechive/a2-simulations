@@ -1,0 +1,6 @@
+sch2sym -intstyle ise -family xc9500xl -refsym SSD E:/IDS/Neo/SSD.sch E:/IDS/Neo/SSD.sym 
+sch2sym -intstyle ise -family xc9500xl -refsym SSD E:/IDS/Neo/SSD.sch E:/IDS/Neo/SSD.sym 
+sch2sym -intstyle ise -family xc9500xl -refsym SSD E:/IDS/Neo/SSD.sch E:/IDS/Neo/SSD.sym 
+sch2sym -intstyle ise -family xc9500xl -refsym SSD E:/IDS/Neo/SSD.sch E:/IDS/Neo/SSD.sym 
+sch2sym -intstyle ise -family xc9500xl -refsym SSD E:/IDS/Neo/SSD.sch E:/IDS/Neo/SSD.sym 
+sch2sym -intstyle ise -family xc9500xl -w -refsym SSD E:/IDS/Neo/SSD.sch E:/IDS/Neo/SSD.sym 

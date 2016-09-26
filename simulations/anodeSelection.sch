@@ -6,13 +6,6 @@
         <trait edittrait="all:0" />
     </attr>
     <netlist>
-        <signal name="XLXN_3" />
-        <signal name="XLXN_8" />
-        <signal name="XLXN_15" />
-        <signal name="XLXN_18" />
-        <signal name="XLXN_19" />
-        <signal name="XLXN_20" />
-        <signal name="XLXN_21" />
         <signal name="A1" />
         <signal name="XLXN_4" />
         <signal name="XLXN_5" />
@@ -140,7 +133,7 @@
             <line x2="144" y1="-176" y2="-176" x1="64" />
         </blockdef>
         <blockdef name="counter">
-            <timestamp>2016-9-15T13:23:11</timestamp>
+            <timestamp>2016-9-26T5:32:58</timestamp>
             <rect width="256" x="64" y="-192" height="192" />
             <line x2="0" y1="-160" y2="-160" x1="64" />
             <line x2="0" y1="-32" y2="-32" x1="64" />
@@ -261,7 +254,7 @@
             <blockpin signalname="XLXN_9" name="I2" />
             <blockpin signalname="XLXN_27" name="O" />
         </block>
-        <block symbolname="counter" name="XLXI_44">
+        <block symbolname="counter" name="XLXI_45">
             <blockpin signalname="Clock" name="Clk" />
             <blockpin signalname="Reset" name="Res" />
             <blockpin signalname="XLXN_11" name="Ac" />
@@ -468,8 +461,6 @@
         <iomarker fontsize="28" x="496" y="544" name="A0" orien="R270" />
         <iomarker fontsize="28" x="432" y="544" name="A1" orien="R270" />
         <iomarker fontsize="28" x="368" y="544" name="A2" orien="R270" />
-        <instance x="432" y="384" name="XLXI_44" orien="R0">
-        </instance>
         <branch name="Clock">
             <wire x2="432" y1="224" y2="224" x1="400" />
         </branch>
@@ -478,5 +469,7 @@
             <wire x2="432" y1="352" y2="352" x1="400" />
         </branch>
         <iomarker fontsize="28" x="400" y="352" name="Reset" orien="R180" />
+        <instance x="432" y="384" name="XLXI_45" orien="R0">
+        </instance>
     </sheet>
 </drawing>

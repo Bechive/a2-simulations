@@ -11,13 +11,9 @@
         <signal name="XLXN_3" />
         <signal name="Ac" />
         <signal name="Clk" />
-        <signal name="XLXN_6" />
-        <signal name="XLXN_7" />
-        <signal name="XLXN_8" />
         <signal name="Res" />
         <signal name="XLXN_10" />
         <signal name="Ab" />
-        <signal name="XLXN_12" />
         <signal name="Aa" />
         <port polarity="Output" name="Ac" />
         <port polarity="Input" name="Clk" />

@@ -1,0 +1,7 @@
+vhdl work "SSDg.vhf"
+vhdl work "SSDbc.vhf"
+vhdl work "SSDadef.vhf"
+vhdl work "SSD.vhf"
+vhdl work "decoder.vhf"
+vhdl work "decoder_TB.vhd"
+vhdl work "counter.vhf"
