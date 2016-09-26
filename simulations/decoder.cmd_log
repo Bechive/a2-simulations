@@ -1,0 +1,1 @@
+sch2sym -intstyle ise -family xc9500xl -w -refsym decoder C:/Users/EpicPC/Desktop/prjing/a2-simulations/simulations/decoder.sch C:/Users/EpicPC/Desktop/prjing/a2-simulations/simulations/decoder.sym 
