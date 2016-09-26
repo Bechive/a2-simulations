@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2016-09-26T11:15:49</DateModified>
+  <DateModified>2016-09-26T11:19:43</DateModified>
   <ModuleName>Decoder2</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>C:/Users/EpicPC/Desktop/prjing/a2-simulations/simulations/iseconfig/topLvlSSD.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Users/EpicPC/Desktop/prjing/a2-simulations/simulations\</ImplementationReportsDirectory>
-  <DateInitialized>2016-09-26T11:15:49</DateInitialized>
+  <SavedFilePath>C:/Users/EpicPC/Desktop/prjing/a2-simulations/simulations/iseconfig/Decoder2.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/Users/EpicPC/Desktop/prjing/a2-simulations/simulations</ImplementationReportsDirectory>
+  <DateInitialized>2016-09-26T11:19:42</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
  <body>

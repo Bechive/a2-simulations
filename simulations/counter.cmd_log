@@ -1,0 +1,1 @@
+sch2sym -intstyle ise -family xc9500xl -w -refsym counter {C:/Users/faiza/Documents/Xilinx Projects/IDS_Assignment2_2016SPR/counter.sch} {C:/Users/faiza/Documents/Xilinx Projects/IDS_Assignment2_2016SPR/counter.sym} 

@@ -1,3 +1,0 @@
-MODULE Decoder
-	SUBMODULE counter
-		INSTANCE XLXI_44
